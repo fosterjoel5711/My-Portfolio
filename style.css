@@ -1,0 +1,7 @@
+:root { color-scheme: light dark; }
+body { font-family: system-ui, sans-serif; margin: 0; line-height: 1.6; }
+.container { max-width: 760px; margin: 2rem auto; padding: 0 1rem; }
+label { display: block; margin: 1rem 0 .5rem; font-weight: 600; }
+input, textarea { width: 100%; padding: .7rem; border-radius: .5rem; border: 1px solid #8885; }
+button, .button { display: inline-block; margin-top: 1rem; padding: .7rem 1.2rem; border: 0; border-radius: .6rem; background: #6b8cff; color: white; text-decoration: none; cursor: pointer; }
+.hidden { display: none; }
